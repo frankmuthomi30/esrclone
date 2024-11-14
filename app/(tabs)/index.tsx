@@ -3,7 +3,7 @@ import './global.css'; // Corrected import
 
 export default function HomeScreen() {
   return (
-    <View className="flex-1 items-center justify-center bg-gray-200">
+    <View className="flex-1 items-center justify-center bg-gray-900">
       <Text className="text-4xl font-bold text-black">
         Welcome to my app!
       </Text>
